@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+qdrant-client
+pandas
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
